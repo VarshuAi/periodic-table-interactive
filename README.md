@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Visual chemistry element grids with atomic weight cards.
+  name: periodic-table-interactive version: 1.0 type: Repository author: VarshuAi description: >   Visual chemistry element grids with atomic weight cards. primary_tech: CSS
 primary_tech: CSS
 ```
 
